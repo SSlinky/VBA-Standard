@@ -3,7 +3,7 @@
 Indentation helps the reader understand the programme flow by clearly delineating logical blocks of code. A single level of indentation is four spaces.
 
 1. Module level statements and method signatures are the lowest level of indentation. These inclde key words such as `Option`, `Dim`, `Public`, `Private`, `Const`, `Property`, `Function`, and `Sub`.
-2. Code that opens or closes a block is at the same level of indentation as the preceeding and proceeding code. Code within the block has one higher level of indentation. This means that entering a block will always increase the indentation by one and exiting will decrease by one. The only exception to this rule is exiting a case block.
+2. Code that opens or closes a block is at the same level of indentation as the preceeding and proceeding code. Code within the block has one higher level of indentation. This means that entering a block will always increase the indentation by one and exiting will decrease by one. The only exception to this rule is exiting a select case block (see below).
 3. Some keywords both close and open a block, e.g. `Else`, `ElseIf`. These should be at the same level of indentation as the code that opens and closes that block.
 
 ## The wrong way to do it
