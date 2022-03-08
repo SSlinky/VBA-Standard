@@ -14,9 +14,9 @@ Dim i As Long, j As Long
 
 For i = 1 to 100
 For j = 1 to 100
-If i < 50 Then
-If i % j Then
-Debug.Print i & " divisible by " & j
+If j < i Then
+If i % j = 0 Then
+Debug.Print j & " divisible by " & i
 End If
 End If
 Next j
@@ -32,8 +32,8 @@ Public Sub ContrivedExample()
 
     For i = 1 to 100
         For j = 1 to 100
-            If i < 50 Then
-                If i % j Then
+            If j < i Then
+                If i % j = 0 Then
                     Debug.Print i & " divisible by " & j
                 End If
             End If
