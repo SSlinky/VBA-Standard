@@ -1,4 +1,9 @@
 - [Home](/ "VBA-Standard")
+
+- Best Practices
+
+  - [Less Indentation](BestPractice/LessIndentation.md "VBA Standard - Best Practice - Less Indentation")
+
 - Layout
 
   - [Indentation](Layout/Indentation.md "VBA Standard - Layout - Indentation")
