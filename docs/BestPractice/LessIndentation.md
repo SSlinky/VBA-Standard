@@ -25,7 +25,7 @@ Function Fibonacci(n As Long, Optional nums As Collection) As Collection
                 nums.Add 1
             Case Else
                 nums.Add nums(cnt) _
-                        + nums(cnt - 1)
+                         + nums(cnt - 1)
         End Select
 
 '       Recursive call to add the next iteration.
