@@ -14,7 +14,7 @@ The reality is that the best way to comment is somewhere in the middle.
 
 ## Don't
 
-- Overcomment. The right amount of commnets really add value but past that they start to add obscurity and can be more difficult to maintain.
+- Overcomment. The right amount of comments really add value but past that they start to add obscurity and can be more difficult to maintain.
 - Explain things that are obvious.
 - Update your code without reviewing the comments. Comments that are incorrect or out of date are worse than no comments at all.
 
