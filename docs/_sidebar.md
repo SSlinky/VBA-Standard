@@ -19,17 +19,17 @@
 
 - Naming Conventions
 
-  - [Introduction](Content/NamingConventionsGeneral.md#Naming-Conventions "VBA Standard - Naming Conventions")
-  - [Style Conventions](Content/NamingConventionsGeneral.md#Style-Conventions "VBA Standard - NamingConventions - Style Conventions")
-  - [Names to Avoid](Content/NamingConventionsGeneral.md#Names-to-Avoid "VBA Standard - NamingConventions - Names to Avoid")
-  - [ASCII Compatibility](Content/NamingConventionsGeneral.md#ASCII-Compatibility "VBA Standard - NamingConventions - ASCII Compatibility")
-  - [Meaningful Names](Content/NamingConventionsGeneral.md#Meaningful-Names "VBA Standard - NamingConventions - Meaningful Names")
-  - [Object Names](Content/NamingConventionsGeneral.md#Object-Names "VBA Standard - NamingConventions - Object Names")
-  - [Variables](Content/NamingConventionsGeneral.md#Variables "VBA Standard - NamingConventions - Variables")
-  - [Constants](Content/NamingConventionsGeneral.md#Constants "VBA Standard - NamingConventions - Constants")
-  - [Methods](Content/NamingConventionsGeneral.md#Methods "VBA Standard - NamingConventions - Methods")
-  - [Events](Content/NamingConventionsGeneral.md#Events "VBA Standard - NamingConventions - Events")
-  - [Types](Content/NamingConventionsGeneral.md#Types "VBA Standard - NamingConventions - Types")
+  - [Introduction](Content/NamingConventions.md#Naming-Conventions "VBA Standard - Naming Conventions")
+  - [Style Conventions](Content/NamingConventions.md#Style-Conventions "VBA Standard - Naming Conventions - Style Conventions")
+  - [Names to Avoid](Content/NamingConventions.md#Names-to-Avoid "VBA Standard - Naming Conventions - Names to Avoid")
+  - [ASCII Compatibility](Content/NamingConventions.md#ASCII-Compatibility "VBA Standard - Naming Conventions - ASCII Compatibility")
+  - [Meaningful Names](Content/NamingConventions.md#Meaningful-Names "VBA Standard - Naming Conventions - Meaningful Names")
+  - [Object Names](Content/NamingConventions.md#Object-Names "VBA Standard - Naming Conventions - Object Names")
+  - [Variables](Content/NamingConventions.md#Variables "VBA Standard - Naming Conventions - Variables")
+  - [Constants](Content/NamingConventions.md#Constants "VBA Standard - Naming Conventions - Constants")
+  - [Methods](Content/NamingConventions.md#Methods "VBA Standard - Naming Conventions - Methods")
+  - [Events](Content/NamingConventions.md#Events "VBA Standard - Naming Conventions - Events")
+  - [Types](Content/NamingConventions.md#Types "VBA Standard - Naming Conventions - Types")
 
 - [Comments](Content/Comments.md#Comments)
   - [Block Comments](Content/Comments.md#Block-Comments)
