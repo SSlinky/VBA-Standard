@@ -131,7 +131,7 @@ Public Property Get EOF() As Boolean
 End Property
 ```
 
-## Class Sections
+## Class Section Comment
 
 Classes should be separated out into logical sections. At the start of each section, a section header should describe it.
 
