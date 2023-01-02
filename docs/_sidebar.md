@@ -34,5 +34,8 @@
   - [Types](Content/NamingConventions.md#Types "VBA Standard - Naming Conventions - Types")
 
 - [Comments](Content/Comments.md#Comments)
-  - [Block Comments](Content/Comments.md#Block-Comments)
-  - [Inline Comments](Content/Comments.md#Inline-Comments)
+  - [Block Comment](Content/Comments.md#Block-Comment)
+  - [Inline Comment](Content/Comments.md#Inline-Comment)
+  - [Method Comment](Content/Comments.md#Method-Comment)
+  - [Class Header Comment](Content/Comments.md#Class-Header-Comment)
+  - [Class Section Comment](Content/Comments.md#Class-Section-Comment)
