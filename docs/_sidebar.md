@@ -3,6 +3,10 @@
 - Best Practices
 
   - [Less Indentation](BestPractice/LessIndentation.md "VBA Standard - Best Practice - Less Indentation")
+  - [Global Variables](BestPractice/GlobalVariables.md#global-variables "VBA Standard - Best Practice - Global Variables")
+    - [Avoid Them](BestPractice/GlobalVariables.md#avoid-them "VBA Standard - Best Practice - Avoid Them")
+    - [Store Together](BestPractice/GlobalVariables.md#store-together "VBA Standard - Best Practice - Store Together")
+    - [Use a Naming Convention](BestPractice/GlobalVariables.md#Use-a-Naming-Convention "VBA Standard - Best Practice - Use a Naming Convention")
 
 - Layout
 
