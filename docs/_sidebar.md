@@ -14,3 +14,7 @@
 
   - [General Principles](NamingConventions/NamingConventionsGeneral.md "VBA Standard - NamingConventions - General")
   - [Prescriptive Rules](NamingConventions/NamingConventionsPrescriptive.md "VBA Standard - NamingConventions - Prescriptive Rules")
+
+- [Comments](Content/Comments.md)
+  - [Block Comments](Content/Comments.md#Block-Comments)
+  - [Inline Comments](Content/Comments.md#Inline-Comments)
