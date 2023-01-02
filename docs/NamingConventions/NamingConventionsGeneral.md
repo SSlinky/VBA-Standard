@@ -6,7 +6,7 @@ It's important to note that you may sometimes find yourself working with legacy 
 
 However, when writing new code, it's important to follow a consistent naming convention in order to make your code as readable and maintainable as possible. By following a clear set of rules for naming your code elements, you can make it easier for other developers to understand your code and make changes to it if needed.
 
-## Overriding Principle
+## Syle Conventions
 
 There are a lot of different naming styles. It helps to be able to recognize what naming style is being used, independently from what they are used for.
 
