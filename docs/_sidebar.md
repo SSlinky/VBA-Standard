@@ -3,10 +3,13 @@
 - Best Practices
 
   - [Less Indentation](BestPractice/LessIndentation.md "VBA Standard - Best Practice - Less Indentation")
-  - [Global Variables](BestPractice/GlobalVariables.md#global-variables "VBA Standard - Best Practice - Global Variables")
-    - [Avoid Them](BestPractice/GlobalVariables.md#avoid-them "VBA Standard - Best Practice - Avoid Them")
-    - [Store Together](BestPractice/GlobalVariables.md#store-together "VBA Standard - Best Practice - Store Together")
-    - [Use a Naming Convention](BestPractice/GlobalVariables.md#Use-a-Naming-Convention "VBA Standard - Best Practice - Use a Naming Convention")
+
+  - Global Variables
+  
+    - [Introduction](BestPractice/GlobalVariables.md#global-variables "VBA Standard - Best Practice - Global Variables")
+    - [Avoid Them](BestPractice/GlobalVariables.md#avoid-them "VBA Standard - Best Practice - Global Variables - Avoid Them")
+    - [Store Together](BestPractice/GlobalVariables.md#store-together "VBA Standard - Best Practice - Global Variables - Store Together")
+    - [Use a Naming Convention](BestPractice/GlobalVariables.md#Use-a-Naming-Convention "VBA Standard - Best Practice - Global Variables - Use a Naming Convention")
 
 - Layout
 
@@ -14,8 +17,9 @@
   - [Line Breaks At Operators](Layout/LineBreaksAtOperators.md "VBA Standard - Layout - Line Breaks At Operators")
   - [Maximum Line Length](Layout/MaximumLineLength.md "VBA Standard - Layout - Maximum Line Length")
 
-- [Naming Conventions](Content/NamingConventionsGeneral.md#Naming-Conventions "VBA Standard - Naming Conventions")
+- Naming Conventions
 
+  - [Introduction](Content/NamingConventionsGeneral.md#Naming-Conventions "VBA Standard - Naming Conventions")
   - [Style Conventions](Content/NamingConventionsGeneral.md#Style-Conventions "VBA Standard - NamingConventions - Style Conventions")
   - [Names to Avoid](Content/NamingConventionsGeneral.md#Names-to-Avoid "VBA Standard - NamingConventions - Names to Avoid")
   - [ASCII Compatibility](Content/NamingConventionsGeneral.md#ASCII-Compatibility "VBA Standard - NamingConventions - ASCII Compatibility")
