@@ -34,9 +34,10 @@
   - [Events](Content/NamingConventions.md#Events "VBA Standard - Naming Conventions - Events")
   - [Types](Content/NamingConventions.md#Types "VBA Standard - Naming Conventions - Types")
 
-- [Comments](Content/Comments.md#Comments)
-  - [Block Comment](Content/Comments.md#Block-Comment)
-  - [Inline Comment](Content/Comments.md#Inline-Comment)
-  - [Method Comment](Content/Comments.md#Method-Comment)
-  - [Class Header Comment](Content/Comments.md#Class-Header-Comment)
-  - [Class Section Comment](Content/Comments.md#Class-Section-Comment)
+- Comments
+  - [Introduction](Content/Comments.md#Comments "VBA Standard - Comments - Introduction")
+  - [Block Comment](Content/Comments.md#Block-Comment "VBA Standard - Comments - Block Comment")
+  - [Inline Comment](Content/Comments.md#Inline-Comment "VBA Standard - Comments - Inline Comment")
+  - [Method Comment](Content/Comments.md#Method-Comment "VBA Standard - Comments - Method Comment")
+  - [Class Header Comment](Content/Comments.md#Class-Header-Comment "VBA Standard - Comments - Class Header Comment")
+  - [Class Section Comment](Content/Comments.md#Class-Section-Comment "VBA Standard - Comments - Class Section Comment")
