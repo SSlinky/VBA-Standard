@@ -2,6 +2,7 @@
 
 - Best Practices
 
+  - [Comments](BestPractice/Comments.md "VBA Standard - Best Practice - Comments")
   - [Less Indentation](BestPractice/LessIndentation.md "VBA Standard - Best Practice - Less Indentation")
 
   - Global Variables
