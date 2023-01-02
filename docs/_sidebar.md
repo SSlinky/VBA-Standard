@@ -11,6 +11,8 @@
     - [Store Together](BestPractice/GlobalVariables.md#store-together "VBA Standard - Best Practice - Global Variables - Store Together")
     - [Use a Naming Convention](BestPractice/GlobalVariables.md#Use-a-Naming-Convention "VBA Standard - Best Practice - Global Variables - Use a Naming Convention")
 
+  - [Long Over Integer](BestPractice/Integers.md "VBA Standard - Best Practice - Long Over Integer")
+
 - Layout
 
   - [Indentation](Layout/Indentation.md "VBA Standard - Layout - Indentation")
