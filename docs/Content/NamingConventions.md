@@ -8,14 +8,14 @@ However, when writing new code, it's important to follow a consistent naming con
 
 ## Syle Conventions
 
-There are a lot of different naming styles. It helps to be able to recognize what naming style is being used, independently from what they are used for.
+There are a lot of different naming styles. It helps to be able to recognise what naming style is being used, independently from what they are used for.
 
 The following naming styles are distinguished in this guide:
 
 * `mixedCase` also known as lower CamelCase.
 * `CapitalizedWords` also known as CapWords, CapCase, PascalCase, or upper CamelCase.
 
-     Note: When using acronyms in CapWords, capitalize all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.
+     Note: When using acronyms in CapWords, capitalise all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.
 * `UPPER_CASE_WITH_UNDERSCORES`
 
 ## Names to Avoid
