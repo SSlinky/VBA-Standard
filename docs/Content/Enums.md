@@ -8,6 +8,8 @@ Enums can be declared with explicit or implicit values. Explicit assignment shou
 * External processes dictating the values.
 * Values expected to be used in calculations.
 
+Underneath all shiny Enum types is a Long powering it. Enums act the same as a Long in that they can be used in equations, implicitly cast the same as Long, and the value assigned does not need to make sense within the context of the type. This means the compiler enforces no type safety beyond a Long and will happily assign enums of different types, enums to variables declared as Long, and values that don't exist in the enum without raising an exception.
+
 ## Implicit Enums
 
 Enums that have implicit value assignment are used when only one category or option can be assigned. In the below example, a file can only be of one type, the file types aren't expectected to be involved in any calculations, and it does not matter in which order they are listed. The majority of enums can be written in this way.
