@@ -13,7 +13,7 @@ There are a lot of different naming styles. It helps to be able to recognise wha
 The following naming styles are distinguished in this guide:
 
 * `mixedCase` also known as lower CamelCase.
-* `CapitalizedWords` also known as CapWords, CapCase, PascalCase, or upper CamelCase.
+* `CapitalisedWords` also known as CapWords, CapCase, PascalCase, or upper CamelCase.
 
      Note: When using acronyms in CapWords, capitalise all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.
 * `UPPER_CASE_WITH_UNDERSCORES`
