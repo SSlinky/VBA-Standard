@@ -41,3 +41,9 @@
   - [Method Comment](Content/Comments.md#Method-Comment "VBA Standard - Comments - Method Comment")
   - [Class Header Comment](Content/Comments.md#Class-Header-Comment "VBA Standard - Comments - Class Header Comment")
   - [Class Section Comment](Content/Comments.md#Class-Section-Comment "VBA Standard - Comments - Class Section Comment")
+
+- Enums
+  - [Introduction](Content/Enums.md#Enums "VBA Standard - Enums - Introduction")
+  - [Implicit Enums](Content/Enums.md#Implicit-Enums "VBA Standard - Enums - Implicit Enums")
+  - [Explicit Enums](Content/Enums.md#Explicit-Enums "VBA Standard - Enums - Explicit Enums")
+  
