@@ -12,10 +12,12 @@ Underneath all shiny Enum types is a Long powering it. Enums act the same as a L
 
 ## Implicit Enums
 
-Enums that have implicit value assignment are used when only one category or option can be assigned. In the below example, a file can only be of one type, the file types aren't expectected to be involved in any calculations, and it does not matter in which order they are listed. The majority of enums can be written in this way.
+Enums are implicitly assigned a value when you don't specify the value that should be assigned. Enums that have implicit value assignment are used when the value that is assigned does not matter.
+
+In the below example, a file can only be of one type, the file types aren't expectected to be involved in any calculations, and it does not matter in which order they are listed. The majority of enums can be written in this way.
 
 ```vb
-Public Enum FileTypes
+Public Enum FileType
     ExcelWorkbook
     PortableDocumentFormat
     PowerpointDeck
@@ -58,7 +60,7 @@ The use of your programme number in a constant also allows for this to change wi
 
 **Values expected to be used in calculations.**
 
-Uncommonly, values may be used in calculations. Therefore, it may simplify code to use the enum directly rather than a `Select` statement.
+Uncommonly, values may be used in calculations. Therefore, it may simplify code to use the enum directly rather than a `Select` statement to calculate a value based on the enum.
 
 ```vb
 Public Enum ScoreWeighting
